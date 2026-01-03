@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345408735696",
+    "project_id": "ajir-f4e36",
+    "storage_bucket": "ajir-f4e36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345408735696:android:83171ba5e077215a5811d5",
+        "android_client_info": {
+          "package_name": "com.example.ajir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVfs8P2FN8wKjnoQaHgLTtJ8MbfsRB8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
